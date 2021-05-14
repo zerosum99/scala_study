@@ -1,0 +1,3 @@
+package bob
+
+class A

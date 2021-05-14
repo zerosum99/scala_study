@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] IncrementalCompile -----------[0m
+[0m[[0m[0mdebug[0m] [0m[0mIncrementalCompile.incrementalCompile[0m
+[0m[[0m[0mdebug[0m] [0m[0mprevious = Stamps for: 0 products, 0 sources, 0 libraries[0m
+[0m[[0m[0mdebug[0m] [0m[0mcurrent source = Set(${BASE}/ArrayP.scala, ${BASE}/array.scala, ${BASE}/trait16.scala, ${BASE}/this.scala, ${BASE}/checkA.scala, ${BASE}/src/main/scala/trait3/scala.scala, ${BASE}/src/main/scala/Demo.scala, ${BASE}/test.scala, ${BASE}/Demo.scala, ${BASE}/func2.scala, ${BASE}/Trait4.scala, ${BASE}/trait14.scala, ${BASE}/string.scala, ${BASE}/caseclass2.scala, ${BASE}/src/main/scala/main.scala, ${BASE}/src/main/scala/introscala/upper2.scala, ${BASE}/trait1.scala, ${BASE}/src/main/scala/test3/scala.scala, ${BASE}/trait2.scala, ${BASE}/Demo1.scala, ${BASE}/package.scala, ${BASE}/Queue.scala, ${BASE}/Student.scala, ${BASE}/src/main/scala/trait1.scala, ${BASE}/object2.scala, ${BASE}/func1.scala, ${BASE}/object1.scala, ${BASE}/Point.scala, ${BASE}/src/main/scala/trait2.scala, ${BASE}/caseclass1.scala, ${BASE}/Demo3.scala, ${BASE}/class1.scala, ${BASE}/src/main/scala/introscala/upper1.scala, ${BASE}/app.scala, ${BASE}/Trait5.scala, ${BASE}/trait15.scala, ${BASE}/Trait3.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m> initialChanges = InitialChanges(Changes(added = Set(${BASE}/checkA.scala, ${BASE}/package.scala, ${BASE}/src/main/scala/main.scala, ${BASE}/Trait3.scala, ${BASE}/object2.scala, ${BASE}/src/main/scala/trait3/scala.scala, ${BASE}/trait15.scala, ${BASE}/Trait5.scala, ${BASE}/Student.scala, ${BASE}/func2.scala, ${BASE}/trait2.scala, ${BASE}/src/main/scala/Demo.scala, ${BASE}/src/main/scala/trait1.scala, ${BASE}/Demo1.scala, ${BASE}/Demo.scala, ${BASE}/src/main/scala/introscala/upper2.scala, ${BASE}/trait1.scala, ${BASE}/trait14.scala, ${BASE}/Queue.scala, ${BASE}/ArrayP.scala, ${BASE}/class1.scala, ${BASE}/Point.scala, ${BASE}/caseclass2.scala, ${BASE}/object1.scala, ${BASE}/string.scala, ${BASE}/trait16.scala, ${BASE}/Demo3.scala, ${BASE}/func1.scala, ${BASE}/src/main/scala/trait2.scala, ${BASE}/Trait4.scala, ${BASE}/this.scala, ${BASE}/array.scala, ${BASE}/caseclass1.scala, ${BASE}/app.scala, ${BASE}/src/main/scala/introscala/upper1.scala, ${BASE}/test.scala, ${BASE}/src/main/scala/test3/scala.scala), removed = Set(), changed = Set(), unmodified = ...),Set(),Set(),API Changes: Set())[0m
+[0m[[0m[0mdebug[0m] [0m[0mFull compilation, no sources in previous analysis.[0m
+[0m[[0m[0mdebug[0m] [0m[0mall 37 sources are invalidated[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: [0m
+[0m[[0m[0mdebug[0m] [0m[0mRecompiling all sources: number of invalidated sources > 50.0% of all sources[0m
+[0m[[0m[0mdebug[0m] [0m[0mcompilation cycle 1[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 37 Scala sources to /Users/dahlmoon/Documents/scala_edit/target/scala-2.13/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.13:1.4.4:compile for Scala 2.13.5[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 37d54ca1 for Scala compiler version 2.13.5[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/dahlmoon/Library/Caches/Coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.5/scala-library-2.13.5.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/Users/dahlmoon/Documents/scala_edit/target/scala-2.13/classes[0m
+[0m[[0m[0mdebug[0m] [0m[0mCompilation failed (CompilerInterface)[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
